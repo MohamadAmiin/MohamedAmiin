@@ -1,0 +1,297 @@
+{
+  "hero": {
+    "imgUrl": "/images/home.png",
+    "name": "Mohamed Abdirahman",
+    "heading": "Hay! I’m Mohamed",
+    "typingText": ["I'm a Designer", 1500, "I'm a Developer", 1500],
+    "description": "I love continuous learning, exploring new ideas, and working on projects that combine creativity and challenge. I find joy in self-development and turning ideas into tangible achievements that add value to life.",
+    "btnText": "Get in touch",
+    "btnUrl": "contactus"
+  },
+  "socialBtns": [
+    {
+      "icon": "fa-brands:facebook-f",
+      "iconBgClass": "facebook",
+      "href": "https://www.facebook.com/share/15idS6DjrE/?mibextid=wwXIfr"
+    },
+    
+      {
+        "icon": "fa-brands:twitter",
+        "iconBgClass": "facebook",
+        "href": "/"
+      },
+    
+    
+    {
+      "icon": "fa-brands:linkedin-in",
+      "iconBgClass": "linkedin",
+      "href": "https://www.linkedin.com/in/mohamed-abdirahman-barkan-ba47662b9?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+    }
+    
+  ],
+  "brands": [
+    {
+      "src": "/images/brand-1.svg",
+      "alt": "Logolpsum"
+    },
+    {
+      "src": "/images/brand-2.svg",
+      "alt": "Logolpsum"
+    },
+    {
+      "src": "/images/brand-1.svg",
+      "alt": "Logolpsum"
+    },
+    {
+      "src": "/images/brand-2.svg",
+      "alt": "Logolpsum"
+    },
+    {
+      "src": "/images/brand-1.svg",
+      "alt": "Logolpsum"
+    },
+    {
+      "src": "/images/brand-2.svg",
+      "alt": "Logolpsum"
+    },
+    {
+      "src": "/images/brand-1.svg",
+      "alt": "Logolpsum"
+    },
+    {
+      "src": "/images/brand-2.svg",
+      "alt": "Logolpsum"
+    }
+  ],
+  "about": {
+    "imgSrc": "/images/about-banner.jpeg",
+    "miniTitle": "About Me",
+    "title": "I AM AVAILABLE TO WORK WITH <span>YOU</span> ",
+    "description": "Hello! I'm Mohammed Abdirahman. I'm a software engineer, web developer, and graphic designer. I work passionately and diligently in the fields of development and design. With years of experience in these areas, I have acquired the skills and knowledge necessary to make your project successful. I enjoy every step of the design and development process, from discussion and collaboration to implementation.",
+    "funfacts": [
+      {
+        "title": "Google Review",
+        "number": 10
+      },
+      {
+        "title": "Years Experience",
+        "number": 4
+      },
+      {
+        "title": "Awward Winning",
+        "number": 3
+      }
+    ],
+    "btnText": "Get in touch",
+    "btnUrl": "contactus"
+  },
+  "projects": {
+    "sectionHeading": {
+      "miniTitle": "My Work",
+      "title": "RECENT PROJECT"
+    },
+    "allProjects": [
+      {
+        "thumbUrl": "/images/2.png",
+        "title": "Website ",
+        "subTitle": "Web Application,",
+        "details": {
+          "title": "Website for rentaling cares or buying used cares",
+          "description": "Automax is an all-in-one platform that offers car rental services and the option to buy used cars easily and reliably. The site provides a wide range of vehicles to suit all needs, whether you're looking for an economical car for daily travel or a luxury car for special occasions. It features a user-friendly interface and advanced filtering options to quickly find the perfect car. Users can also view detailed information about used cars, including specifications, history, and overall condition, with the ability to contact the seller directly. [Site Name] ensures a safe and convenient experience, with 24/7 customer support available to meet client needs.",
+          "type": "Website",
+          "langages": "Django, HTML, CSS, JS , SQL",
+          "country": "Suadi Arabia"
+        }
+      },
+      {
+        "thumbUrl": "/images/31.jpg",
+        "title": "Mobile App",
+        "subTitle": "Mobile Application",
+        "details": {
+          "title": "Ifood",
+          "description": "Ifood is an innovative application designed to provide a comprehensive experience for both restaurants and customers. The app allows restaurants to manage orders easily, from receiving online orders to delivering them quickly and efficiently. Customers can browse the menu, customize their orders, and make secure online payments. Additionally, the app offers home delivery services, allowing customers to track the status of their orders in real-time. The app also helps restaurants improve inventory management and offers promotional deals to increase customer engagement. With an easy-to-use interface and 24/7 customer support, it ensures a seamless experience for all users.",
+          "type": "Mobile Application ",
+          "langages": "Dart , Flutter , Firebase",
+          "country": "SO"
+        }
+      },
+      {
+        "thumbUrl": "/images/tele.png",
+        "title": "Telegram bot",
+        "subTitle": "Bot",
+        "details": {
+          "title": "Telegram library",
+          "description": "...",
+          "type": "Bot",
+          "langages": "python , Telegram API, SQL",
+          "country": "SO"
+        }
+      },
+      {
+        "thumbUrl": "/images/ecomm.webp",
+        "title": "Website ",
+        "subTitle": "Web Application,",
+        "details": {
+          "title": "E-commerce",
+          "description": "...",
+          "type": "Website",
+          "langages": "Reactjs,Express, Nodejs, Mongodb",
+          "country": "East Africa"
+        }
+      },
+      {
+        "thumbUrl": "/images/db_center.png",
+        "title": "Brand Design",
+        "subTitle": "Logo",
+        "details": {
+          "title": "Dabka Bussinuss Center",
+          "description": "...",
+          "type": "Logo",
+          "langages": "Adobe Illisturator",
+          "country": "SO"
+        }
+      },
+      {
+        "thumbUrl": "/images/rest.webp",
+        "title": "Website Design",
+        "subTitle": "Web Design, App Design",
+        "details": {
+          "title": "Restrunt",
+          "description": "Restrunt",
+          "type": "Website",
+          "langages": "Django, Reactjs, SQL, Bootstrap",
+          "country": "USA"
+        }
+      }
+    ]
+  },
+  "service": {
+    "sectionHeading": {
+      "miniTitle": "SERVICES",
+      "title": "Design <span>services</span> I am providing"
+    },
+    "allService": [
+      {
+        "imgUrl": "/images/programming.jpg",
+        "title": "Web Development",
+        "subTitle": "Building and designing responsive websites tailored to your needs.",
+        "icon": "bi:code-slash",
+        "ratings": 4.5
+      },
+      {
+        "imgUrl": "/images/graphic.png",
+        "title": "Graphic Design",
+        "subTitle": "Creating visually appealing designs for branding, UI, and social media.",
+        "icon": "bi:palette",
+        "ratings": 4
+      },
+      {
+        "imgUrl": "/images/seo.jpg",
+        "title": "SEO Marketing",
+        "subTitle": "Improving website visibility with effective SEO strategies.",
+        "icon": "bi:speedometer2",
+        "ratings": 3.5
+      },
+      {
+        "imgUrl": "/images/mobile.png",
+        "title": "Mobile App Development",
+        "subTitle": "Developing high-quality mobile applications for iOS and Android platforms.",
+        "icon": "bi:phone",
+        "ratings": 3
+      },
+      {
+        "imgUrl": "/images/cloud.png",
+        "title": "Cloud Services",
+        "subTitle": "Providing scalable cloud solutions for your business needs.",
+        "icon": "bi:cloud",
+        "ratings": 1.5
+      }, {
+      "imgUrl": "/images/linux.jpg",
+      "title": "Linux System Administration",
+      "subTitle": "Expert in managing Linux servers, automation, and ensuring security.",
+      "icon": "bi:terminal",
+      "ratings": 3.4
+
+
+      }
+
+    ]
+  },
+  "experience": {
+    "sectionHeading": {
+      "miniTitle": "Experience",
+      "title": "My Work <span>Experience</span>"
+    },
+    "allExperience": [
+      {
+        "designation": "Front-end Developer",
+        "company": "Toyota Arabi | REMOTE",
+        "duration": "J 2022 - PRESENT",
+        "jobType": "Part Time ",
+        "companyTitle": "About Company",
+        "companyDescription": "A company specialized in selling or renting used cars."
+      },
+      {
+        "designation": "Full stack developer",
+        "company": "Ifood | REMOTE",
+        "duration": "2023 - PRESENT",
+        "jobType": "Full time",
+        "companyTitle": "About Company",
+        "companyDescription":".A company that provide food and delivring service"
+      },
+      {
+        "designation": "Full Stack Developer",
+        "company": "Waafi | On-site",
+        "duration": "2024- PRESENT",
+        "jobType": "Full time",
+        "companyTitle": "About Company",
+        "companyDescription": "Hormuud Telecom is one of Somalia's leading telecommunications companies, founded in 2002. It provides a wide range of services, including mobile voice, data, and internet services, with a focus on enhancing digital connectivity in the country. Hormuud is also renowned for its mobile money platform, EVC Plus, which facilitates secure mobile payments, money transfers, and remittances, playing a crucial role in Somalia's cashless economy. The company has been instrumental in bringing reliable communication infrastructure to the region, offering services to millions of customers across Somalia, despite challenges posed by limited infrastructure and a rapidly evolving market."
+      },
+      {
+        "designation": "ICT Teacher",
+        "company": "Taysiir international school | On-site",
+        "duration": "2024-2023- PRESENT",
+        "jobType": "Full time",
+        "companyTitle": "About Company",
+        "companyDescription": "School "
+      }
+    ]
+  },
+  "testimonial": {
+    "sectionHeading": {
+      "miniTitle": "Testimonial",
+      "title": "Over <span>50+</span> <br /> PEOPLE TRUST ME"
+    },
+    "allTestimonial": [
+      {
+        "reviewText": "Donec tellus sem, tempor ac purus a, porttitor lobortis purus. Etiam quis nisl eget ex pulvinar consectetur. Suspendisse potenti. Cras non elementum risus. Fusce massa tellus, consequat a rutrum et, aliquam a lacus. Quisque viverra egestas tincidunt. Nunc nec nisi sed enim consectetur ullamcorper. Vestibulum at neque tortor. Pellentesque urna enim, ultricies at tortor eu, elementum egestas leo. In hac habitasse platea dictumst.",
+        "avatarImg": "/images/contact_us.jpeg",
+        "avatarName": "Pamela Anders",
+        "avatarCompany": "Company Name"
+      },
+      {
+        "reviewText": "Donec tellus sem, tempor ac purus a, porttitor lobortis purus. Etiam quis nisl eget ex pulvinar consectetur. Suspendisse potenti. Cras non elementum risus. Fusce massa tellus, consequat a rutrum et, aliquam a lacus. Quisque viverra egestas tincidunt. Nunc nec nisi sed enim consectetur ullamcorper. Vestibulum at neque tortor. Pellentesque urna enim, ultricies at tortor eu, elementum egestas leo. In hac habitasse platea dictumst.",
+        "avatarImg": "/images/avatar-2.jpg",
+        "avatarName": "Pamela Anders",
+        "avatarCompany": "Company Name"
+      },
+      {
+        "reviewText": "Donec tellus sem, tempor ac purus a, porttitor lobortis purus. Etiam quis nisl eget ex pulvinar consectetur. Suspendisse potenti. Cras non elementum risus. Fusce massa tellus, consequat a rutrum et, aliquam a lacus. Quisque viverra egestas tincidunt. Nunc nec nisi sed enim consectetur ullamcorper. Vestibulum at neque tortor. Pellentesque urna enim, ultricies at tortor eu, elementum egestas leo. In hac habitasse platea dictumst.",
+        "avatarImg": "/images/avatar-3.jpg",
+        "avatarName": "Pamela Anders",
+        "avatarCompany": "Company Name"
+      }
+    ]
+  },
+  "contact": {
+    "sectionHeading": {
+      "title": "Let’s Discuss Your Project",
+      "subTitle": "Always available for freelancing if the right project comes along, Feel free to contact me."
+    },
+    "contactImg": "/images/contact_us.jpeg",
+    "contactInfo": [
+      { "title": "Write an e-mail", "email": "mohamed@amiinbarkaan@gmail.com" },
+      { "title": "write an e-mail", "tel": "+252618473511" }
+    ]
+  }
+}
