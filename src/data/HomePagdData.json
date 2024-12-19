@@ -290,8 +290,8 @@
     },
     "contactImg": "/images/contact_us.jpeg",
     "contactInfo": [
-      { "title": "Write an e-mail", "email": "mohamed@amiinbarkaan@gmail.com" },
-      { "title": "write an e-mail", "tel": "+252618473511" }
+      { "title": "E-mail", "email": "mohamedamiinbarkaan@gmail.com" },
+      { "title": "Phone Number", "tel": "+252618473511" }
     ]
   }
 }
