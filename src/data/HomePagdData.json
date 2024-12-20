@@ -1,6 +1,6 @@
 {
   "hero": {
-    "imgUrl": "/images/home.png",
+    "imgUrl": "/images/code.png",
     "name": "Mohamed Abdirahman",
     "heading": "Hay! I’m Mohamed",
     "typingText": ["I'm a Designer", 1500, "I'm a Developer", 1500],
@@ -288,10 +288,10 @@
       "title": "Let’s Discuss Your Project",
       "subTitle": "Always available for freelancing if the right project comes along, Feel free to contact me."
     },
-    "contactImg": "/images/contact_us.jpeg",
+    "contactImg": "/images/left finger.png",
     "contactInfo": [
-      { "title": "E-mail", "email": "mohamedamiinbarkaan@gmail.com" },
-      { "title": "Phone Number", "tel": "+252618473511" }
+      { "title": "Write an e-mail", "email": "mohamedbarkaan9@gmail.com" },
+      { "title": "write an e-mail", "tel": "+252618473511" }
     ]
   }
 }
